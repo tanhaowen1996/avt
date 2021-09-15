@@ -1,0 +1,11 @@
+django<3.3
+djangorestframework
+drf_yasg
+gunicorn
+httptools
+python-dotenv
+requests
+uvicorn
+python-magic
+python-magic-debian-bin
+ffmpeg
